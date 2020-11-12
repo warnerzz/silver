@@ -1,7 +1,7 @@
-package com.plm.dao.auth;
+package com.dao.auth;
 
-import com.plm.model.Page;
-import com.plm.model.auth.AuthCompany;
+import com.model.Page;
+import com.model.auth.AuthCompany;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
