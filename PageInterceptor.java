@@ -1,5 +1,3 @@
-import com.plm.common.exception.BusinessException;
-import com.plm.model.Page;
 import org.apache.ibatis.executor.parameter.ParameterHandler;
 import org.apache.ibatis.executor.statement.StatementHandler;
 import org.apache.ibatis.logging.Log;
